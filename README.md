@@ -17,7 +17,8 @@ As part of this project, I have had to do the below steps:
 >     
 >2. Storing, analyzing, and visualizing wrangled data
 >
->3. Reporting on
+>3. Reporting on:
+>
 >     o data wrangling efforts and
 >     
 >     o data analyses and visualizations
