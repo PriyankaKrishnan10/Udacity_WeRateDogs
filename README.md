@@ -1,5 +1,6 @@
 # Udacity_WeRateDogs
-Data Wrangling
+
+>Udacity Project - Data Wrangling
 
 ##Introduction:
 >For the Wrangle and Analyze Data project, I have wrangled (and analyzed and visualized) the
