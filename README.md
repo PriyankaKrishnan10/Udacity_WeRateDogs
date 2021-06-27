@@ -2,7 +2,7 @@
 
 >Udacity Project - Data Wrangling
 
-##Introduction:
+## Introduction:
 >For the Wrangle and Analyze Data project, I have wrangled (and analyzed and visualized) the
 tweet archive dataset of Twitter user dog_rates, also known as WeRateDogs. WeRateDogs is a
 Twitter account that rates people's dogs with a humorous comment about the dog.
