@@ -10,9 +10,14 @@ As part of this project, I have had to do the below steps:
 
 >1. Data wrangling
 >     o Gathering data
+>     
 >     o Assessing data ‐ quality & tidiness
+>     
 >     o Cleaning data
+>     
 >2. Storing, analyzing, and visualizing wrangled data
+>
 >3. Reporting on
 >     o data wrangling efforts and
+>     
 >     o data analyses and visualizations
